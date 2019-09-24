@@ -1,0 +1,11 @@
+﻿Valida XML do Workflow
+
+1 - Salvar XML do WORKFLOW dentro da pasta XML
+2 - Abrir o CMD e digitar os seguintes comandos:
+		$ cd C:____caminho_da_pasta___Demanda Python\Projeto_Valida_XML_SILDC\src
+		$ valida_xml.py
+3 - O script irá rodar sobre todos os arquivos que estiverem dentro da pasta XML e mostrará o resultado ao final (se validado ou não e quais os erros)
+
+
+
+- A pasta XML_producao contém XMLs de sistemas que já se encontram em produção.
